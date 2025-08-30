@@ -30,12 +30,12 @@
         "p_filename":"AdventureWorks_Returns.csv"
     },
     {
-        "p_rel_url" : "ashruti7y/Shrutiku02/refs/heads/main/myfolder/AdventureWorks_Sales_2015.csv",
+        "p_rel_url" : "shruti7y/Shrutiku02/refs/heads/main/myfolder/AdventureWorks_Sales_2015.csv",
         "p_sink_folder" : "AdventureWorks_Sales_2015",
         "p_filename" : "AdventureWorks_Sales_2015.csv"
     },
     {
-        "p_rel_url" : "ashruti7y/Shrutiku02/refs/heads/main/myfolder/AdventureWorks_Sales_2016.csv",
+        "p_rel_url" : "shruti7y/Shrutiku02/refs/heads/main/myfolder/AdventureWorks_Sales_2016.csv",
         "p_sink_folder" : "AdventureWorks_Sales_2016",
         "p_filename" : "AdventureWorks_Sales_2016.cvsv"
     },
